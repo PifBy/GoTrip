@@ -106,6 +106,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding-top: 60px;
+    z-index: 3;
 }
 
 a {
