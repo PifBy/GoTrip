@@ -726,3 +726,8 @@ a {
     background-color: #FF7C4E;
     color: #fff
 }
+
+
+.header-reg{
+    z-index: 3;
+}
